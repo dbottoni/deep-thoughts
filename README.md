@@ -1,3 +1,3 @@
-# deep-thoughts
+# Deep Thoughts
 
 ## Description
